@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://customsofaprice.github.io/TEST-MassPageBuilderSmokeTest-104-01/sitemap.xml
